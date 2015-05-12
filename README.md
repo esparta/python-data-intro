@@ -1,7 +1,7 @@
 # Material del Taller
 
 Puedes ver el material del taller traducido en vivo en :
-http://esparta.github.io/python-data-intro-es/ y el original en http://opentechschool.github.io/python-data-intro/ .
+http://esparta.github.io/python-data-intro/ y el original en http://opentechschool.github.io/python-data-intro/ .
 
 # LEEME para Contribuidores
 
