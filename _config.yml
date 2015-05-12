@@ -1,0 +1,42 @@
+permalinks: title
+markdown: redcarpet
+pygments: true
+baseurl: /python-data-intro
+title: Introducción al Procesamiento de Datos con Python
+map:
+ - title: Inicio
+   path: /
+   caption: Introduction to Data Processing with Python
+ - title: Principal
+   caption: El contenido "mandatorio" del taller.
+   subpages:
+     - title: Resumen de lo esencial de Python
+       path: /core/recap.html
+       caption: A quick recap of some of the Introduction to Programming essentials
+     - title: Estructura de Datos en Python
+       path: /core/data.html
+       caption: An introduction to the list and dictionary data structures.
+     - title: Introducción a IPython Notebook
+       path: /core/notebook.html
+       caption: A whole new way to work with Python!
+     - title: Trabajando con archivos de texto
+       path: /core/text-files.html
+       caption: What is a text file? How do we get them in and out of Python?
+     - title: Trabajando con cadenas
+       path: /core/strings.html
+       caption: Once we have our text in Python, what can we do with it?
+     - title: Creando gráficos
+       path: /core/charts.html
+       caption: Using IPython Notebook with matplotlib to create charts.
+     - title: Archivos CSV
+       path: /core/csv.html
+       caption: Reading comma-separated data.
+ - title: Extras
+   caption: Additional workshop content
+   subpages:
+   - title: Enfoques alternativos
+     path: /extras/alternatives.html
+     caption: Some other ways to store and process data.
+   - title: Open Data
+     path: /extras/opendata.html
+     caption: Some places to find open data sets.
